@@ -1,4 +1,5 @@
 package engine.Pieces;
 
-public class Bishop {
+public class Bishop{
+
 }
